@@ -1,5 +1,5 @@
-var roastGiven;
-for (roastGiven = 0; roastGiven < 10; roastGiven++) {
-   console.log(roastGiven);
-    
-}
+var i = 0;
+for (i = 0; i < 5; i++) {
+   
+};
+console.log(i);
