@@ -1,5 +1,4 @@
 function canPay(changeArray, totalDue) {
-   
     if (changeArray.length === 0) {
         return "Array is empty!";
     }else{
@@ -12,7 +11,5 @@ function canPay(changeArray, totalDue) {
          }else{
             return false;
          }
-
     }
-
 }
